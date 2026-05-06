@@ -43,7 +43,6 @@ Scripts that need user input are fully interactive via the terminal.
 ```
 Automation/
 ├── README.md
-├── catalog_report_generator/
 │   └── catalog_report_generator.py
 └── ...
 ```
