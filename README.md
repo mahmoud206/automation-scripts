@@ -8,8 +8,8 @@ A personal collection of Python scripts built to automate repetitive tasks — e
 
 | Script | Description |
 |--------|-------------|
-| [`catalog_report_generator.py`](./catalog_report_generator/catalog_report_generator.py) | Extracts SKUs from catalog layout Excel files and generates a formatted stock analysis report |
-
+| [`catalog_report_generator.py`](./catalog_report_generator.py) | Extracts SKUs from catalog layout Excel files and generates a formatted stock analysis report |
+| [`Spike_alarm.py`](./Spike_alarm.py) | Send Daily Email To The Supply chain manager To early Detect Stockout Skus |
 > More scripts will be added over time.
 
 ---
