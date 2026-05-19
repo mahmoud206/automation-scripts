@@ -10,6 +10,7 @@ A personal collection of Python scripts built to automate repetitive tasks — e
 |--------|-------------|
 | [`catalog_report_generator.py`](./catalog_report_generator.py) | Extracts SKUs from catalog layout Excel files and generates a formatted stock analysis report |
 | [`Spike_alarm.py`](./Spike_alarm.py) | Send Daily Email To The Supply chain manager To early Detect Stockout Skus |
+| [`Quick_repeat_view.py`](./Quick_repeat_view.py) | A quick overview of the last 3 years’ sales compared with current stock helps in repeat decision-making |
 > More scripts will be added over time.
 
 ---
@@ -43,8 +44,11 @@ Scripts that need user input are fully interactive via the terminal.
 ```
 Automation/
 ├── README.md
-│   └── catalog_report_generator.py
-└── ...
+│    └── catalog_report_generator.py
+│    └── Spike_alarm.py
+│    └── Quick repeat view.py
+
+
 ```
 
 ---
