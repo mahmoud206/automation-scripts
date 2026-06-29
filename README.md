@@ -48,6 +48,8 @@ Automation/
 │    └── catalog_report_generator.py
 │    └── Spike_alarm.py
 │    └── Quick repeat view.py
+     └── Daily_Auto_stk_checker.py
+
 
 
 ```
